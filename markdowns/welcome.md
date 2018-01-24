@@ -2,7 +2,7 @@
 
 Etes-vous prêt pour la rédaction d'un article ? 
 
-?[Une fois avoir choisi son sujet, il est conseillé de répondre :]
+?[Après avoir choisi son sujet, il est conseillé de répondre au :]
 -[ ] 2w + 3h
 -[ ] 5x + 2y
 -[x] 5w + h
