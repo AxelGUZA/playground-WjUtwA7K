@@ -7,7 +7,7 @@ Etes-vous prêt pour la rédaction d'un article ?
 -[ ] 5x + 2y
 -[x] 5w + h
 -[ ] 2x + 3y
-?[Quel est le paragraphe que l'on conseille de répondre aux questions combien et pourquoi ?]
+?[Quel est le paragraphe qui répond aux questions combien et pourquoi ?]
 -[ ] Le premier
 -[x] Le deuxième
 -[ ] Le troisième
@@ -18,6 +18,6 @@ Etes-vous prêt pour la rédaction d'un article ?
 ?[Quels types de phrases sont conseillées ?]
 -[x] Courtes
 -[ ] Longues
-?[Lors de la rédaction d'un article quelle personne faut il employer ?](multiple)
+?[Lors de la rédaction d'un article quelle personne faut-il employer ?](multiple)
 -[x] Deuxième du singulier
 -[x] Deuxième du pluriel
