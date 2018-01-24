@@ -12,3 +12,7 @@ Etes-vous prêt pour la rédaction d'un article ?
 -[x] Deuxième
 -[ ] Troisième
 -[ ] Dernier
+?[Ce quizz est-il un autre moyen de transmettre l'information ?]
+-[x] Oui
+-[ ] Non
+
