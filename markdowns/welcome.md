@@ -7,11 +7,11 @@ Etes-vous prêt pour la rédaction d'un article ?
 -[ ] 5x + 2y
 -[x] 5w + h
 -[ ] 2x + 3y
-?[C'est à quel paragraphe que l'on conseille de répondre aux questions combien et pourquoi ?]
--[ ] Premier
--[x] Deuxième
--[ ] Troisième
--[ ] Dernier
+?[Quel est le paragraphe que l'on conseille de répondre aux questions combien et pourquoi ?]
+-[ ] Le premier
+-[x] Le deuxième
+-[ ] Le troisième
+-[ ] Le dernier
 ?[Ce quizz est-il un autre moyen de transmettre l'information ?]
 -[x] Oui
 -[ ] Non
