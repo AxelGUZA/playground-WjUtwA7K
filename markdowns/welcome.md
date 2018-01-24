@@ -20,4 +20,4 @@ Etes-vous prêt pour la rédaction d'un article ?
 -[ ] Longues
 ?[Lors de la rédaction d'un article quelle personne faut il employer ?]
 -[x] Deuxième du singulier
--[x] Deuxième du pluriel
+-[ ] Deuxième du pluriel
