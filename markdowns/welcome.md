@@ -15,4 +15,9 @@ Etes-vous prêt pour la rédaction d'un article ?
 ?[Ce quizz est-il un autre moyen de transmettre l'information ?]
 -[x] Oui
 -[ ] Non
-
+?[Quels types de phrases sont conseillées ?]
+-[x] Courtes
+-[ ] Longues
+?[Lors de la rédaction d'un article quelle personne faut il employer ?]
+-[x] Deuxième du singulier
+-[x] Deuxième du pluriel
