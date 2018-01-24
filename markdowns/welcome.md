@@ -18,6 +18,6 @@ Etes-vous prêt pour la rédaction d'un article ?
 ?[Quels types de phrases sont conseillées ?]
 -[x] Courtes
 -[ ] Longues
-?[Lors de la rédaction d'un article quelle personne faut il employer ?]
+?[Lors de la rédaction d'un article quelle personne faut il employer ?](multiple)
 -[x] Deuxième du singulier
--[ ] Deuxième du pluriel
+-[x] Deuxième du pluriel
