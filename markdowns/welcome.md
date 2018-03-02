@@ -1,6 +1,6 @@
 # Quizz !
 
-Ce quizz teste vos connaissances suit à la lecture de cette page : http://wiki.irobotechart.com/index.php/Ecrire_un_article
+Ce quizz teste vos connaissances suite à la lecture de cette page : http://wiki.irobotechart.com/index.php/Ecrire_un_article
 
 Etes-vous prêt pour la rédaction d'un article ? 
 
